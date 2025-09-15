@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "eamodio.gitlens",
+    "nhoizey.gremlins",
+    "usernamehw.errorlens",
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "donjayamanne.githistory",
+    "yoavbls.pretty-ts-errors",
+    "editorconfig.editorconfig",
+    "yzhang.markdown-all-in-one",
+    "christian-kohler.path-intellisense"
+  ]
+}
